@@ -1,0 +1,2 @@
+# tmux
+Minimalist tmux configuration
